@@ -5,7 +5,7 @@ Group_30 Homework
 
 1. Создать внешний репозиторий c названием XML.
 
-	  `Repositories -> New -> Repository name: XML -> Create perository`
+	  `Repositories -> New -> Repository name: XML -> Create repository`
 
 2. Клонировать репозиторий XML на локальный компьютер.
 
@@ -34,7 +34,7 @@ Group_30 Homework
 	<обо_мне>
 		<фио>Руслан Лазарев</фио>
 		<возраст>31</возраст>
-		<количество_домашных_животных>0</количество_домашных_животных>
+		<количество_домашних_животных>0</количество_домашних_животных>
 		<будущая_желаемая_зарплата>$3000</будущая_желаемая_зарплата>
 	</обо_мне>
 	```
@@ -98,7 +98,7 @@ Group_30 Homework
 	```
 	Блок "Commit new file"
 	В поле заголовка: create bug_report.xml
-	В поле описания: create my first but_repots.xml
+	В поле описания: create my first bug_report.xml
 	Нажать на кнопку "Commit changes"
 	```
 16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
@@ -108,7 +108,7 @@ Group_30 Homework
 	```
 17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 	```
-	В поле заголовка: можно оставить пустым, а можно указать Update but_report.xml
+	В поле заголовка: можно оставить пустым, а можно указать Update bug_report.xml
 	В поле описания: "added first bug report"
 	Нажать на кнопку "Commit changes"
 	```
