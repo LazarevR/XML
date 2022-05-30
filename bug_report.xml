@@ -1,1 +1,27 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+    <title>Fun&amp;Sun app__bug report</title>
+    <body>
+        <id>1</id>
+        <summary>При выборе аватара в настройках профиля, приложение закрывается с ошибкой</summary>
+        <component>Настройки профиля</component>
+        <version>v1.5.15</version>
+        <priority>medium</priority>
+        <severity>blocker</severity>
+        <status>Открыт</status>
+        <environment>iPhone Xs, iOS 15.4</environment>
+            <preconditions>
+                <action_1>Приложение открыто</action_1>
+                <action_2>Пользователь авторизован</action_2>
+            </preconditions>
+        <steps>
+            <step_1>Нажать на кнопку 'Профиль'</step_1>
+            <step_2>Нажать на аватар</step_2>
+            <step_3>Выбрать пункт 'Редактировать' в модальном окне</step_3>
+            <step_4>Нажать на пункт 'Camera' в модальном окне</step_4>
+            <expected_result>Открывается камера. При нажатии на кнопку затвора, происходит захват кадра</expected_result>
+            <actual_result>Приложение закрылось, отображается окно с ошибкой 'Сбой в работе приложения'</actual_result>
+        </steps>
+    </body>
+</report>
