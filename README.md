@@ -45,6 +45,13 @@ Group_30 Homework
 	git commit -m "edit the new.xml file"
 	git push
 	```
+	Или
+	```
+	git checkout main
+	git add new.xml
+	git commit -m "edit the new.xml file"
+	git push
+	```
 9. Создать файл preferences.xml
 
 	`touch preferences.xml`
