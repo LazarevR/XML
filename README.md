@@ -1,8 +1,6 @@
 # XML
 Group_30 Homework
 
-**XML**
-
 1. Создать внешний репозиторий c названием XML.
 
 	  `Repositories -> New -> Repository name: XML -> Create repository`
