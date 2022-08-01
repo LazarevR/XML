@@ -70,7 +70,7 @@ Group_30 Homework
 	`touch sklls.xml`
 	```
 	<?xml version="1.0" encoding="UTF-8"?>
-	<скиллы>
+	<skills>
 		<learn_1>Базовая теория SDLC, STLC</learn_1>
 		<learn_2>Клиент-серверная архитектура</learn_2>
 		<learn_3>HTTP методы запросов на сервер</learn_3>
@@ -94,7 +94,7 @@ Group_30 Homework
 		<learn_21>База данных Postgres</learn_21>
 		<learn_22>Нереляционная база данных Redis</learn_22>
 		<learn_23>Нагрузочное тестирование в Jmeter</learn_23>
-	</скиллы>
+	</skills>
 	```
 12. Сделать коммит в одну строку.
 
