@@ -31,7 +31,7 @@ Group_30 Homework
 	<?xml version="1.0" encoding="UTF-8"?>
 	<about_me>
 		<name>Руслан Лазарев</name>
-		<age>31</age>
+		<age>33</age>
 		<number_of_pets>0</number_of_pets>
 		<desired_salary>$3000</desired_salary>
 	</about_me>
@@ -58,11 +58,11 @@ Group_30 Homework
 	```
 	<?xml version="1.0" encoding="UTF-8"?>
 	<favorites>
-		<movie>Вечное сияние чистого разума</movie>
-		<tv_series>Californication</tv_series>
-		<food>Солянка</food>
-		<season>Весна</season>
-		<country_to_visit>Норвегия</country_to_visit>
+		<movie>Eternal Sunshine of the Spotless Mind</movie>
+		<tv_show>Doctor Who</tv_show>
+		<food>Spicy</food>
+		<season>Spring</season>
+		<country_to_visit>Norway</country_to_visit>
 	</favorites>
 	```
 11. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
